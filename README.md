@@ -151,7 +151,7 @@ plt.colorbar()
 plt.title('OI')
 plt.draw()
 ```
-![](../master/Image/dis.png)
+![](../master/Image/ostia_obs.PNG)
 
 Define test zone (top-left point and size of zone): 
 ```bash
@@ -227,4 +227,4 @@ plt.legend()
 plt.xlabel('Wavelength (km)')
 plt.ylabel('Fourier power spectrum')
 ```
-![](../master/Image/psd.PNG)
+![](../master/Image/ostia_dis.PNG)
